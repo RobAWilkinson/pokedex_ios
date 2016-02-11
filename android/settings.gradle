@@ -1,0 +1,3 @@
+rootProject.name = 'pokedex_ios'
+
+include ':app'
